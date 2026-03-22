@@ -1,4 +1,4 @@
-// Kanagawa - Wave Theme
+// Kanagawa
 // Based on the Kanagawa palette from rebelot/kanagawa.nvim
 
 import { rgba } from 'polished';
